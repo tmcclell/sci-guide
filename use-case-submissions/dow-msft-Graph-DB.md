@@ -149,3 +149,39 @@ Total M  5.46 gCO2e	CPU + memory
 
 ## This is equivalent to:
 ![image](https://user-images.githubusercontent.com/53481728/200390651-74ec5b0e-fe17-4307-b0a0-81b20278e2a4.png)
+
+# Reduction
+
+By moving the workload to West US region instead of North Central and reducing the VM size, we were able to reduce the carbon overall by 44%. <html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+<meta name=ProgId content=OneNote.File>
+<meta name=Generator content="Microsoft OneNote 15">
+</head>
+
+<body lang=en-US style='font-family:Calibri;font-size:11.0pt'>
+<!--StartFragment-->
+
+<div style='direction:ltr'>
+
+
+
+Total SCI | Tiger   Graph DB + API, Neo4J DB + API
+-- | --
+321.35 gCO2e | 41.08 + 34.3 + 41.18 + 63
+44% Reduction | 179.48 - Total   Difference (-141.95 gCO2e)
+
+
+
+</div>
+
+<!--EndFragment-->
+</body>
+
+</html>
+
+![image](https://user-images.githubusercontent.com/53481728/222472170-fd9ba69f-14ca-4c1b-89e1-3c9ea75349da.png)
+
